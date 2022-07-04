@@ -1,5 +1,7 @@
 # Understand basics of Web3 and Blockchain
 
+Watch the complete video: https://youtu.be/UsHFccUk13U
+
 ## Why do we need blockchain?
 
 Web1 meant reading - web2 was about reading and writing - web3 is about ownership. When you use the current applications like Social Media, all the data gets stored on the company’s servers, and well the majority of big platforms are handled by only a handful of companies.
